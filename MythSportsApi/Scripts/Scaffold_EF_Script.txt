@@ -1,0 +1,3 @@
+﻿Run in the Nuget Package Manager Console
+
+Scaffold-DbContext “Server=localhost\SQLEXPRESS;Database=MythSportsDb;Integrated Security=True” Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models2
